@@ -1,5 +1,5 @@
 <template>
-  <h1>HomePage</h1>
+  <h1 class="text-4xl font-black">HomePage</h1>
   <NuxtLink href="/about">About</NuxtLink>
 </template>
 
